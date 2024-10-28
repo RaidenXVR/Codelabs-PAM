@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>Drink plenty of water daily to stay hydrated.</item>
+        <item>Get at least 7-8 hours of sleep every night.</item>
+        <item>Eat more fruits and vegetables for essential vitamins.</item>
+        <item>Exercise for at least 30 minutes most days of the week.</item>
+        <item>Take breaks from screens to prevent eye strain.</item>
+        <item>Limit sugary foods and drinks for better energy levels.</item>
+        <item>Practice mindfulness or meditation to reduce stress.</item>
+        <item>Maintain good posture to avoid back pain.</item>
+        <item>Wash your hands regularly to prevent illness.</item>
+        <item>Eat a balanced diet with a variety of nutrients.</item>
+        <item>Stretch regularly to improve flexibility.</item>
+        <item>Don’t skip breakfast to fuel your day.</item>
+        <item>Stay physically active to boost your mood.</item>
+        <item>Limit alcohol consumption for better health.</item>
+        <item>Take time to relax and recharge during the day.</item>
+        <item>Eat more whole grains for sustained energy.</item>
+        <item>Limit processed foods for better digestion.</item>
+        <item>Get regular check-ups to monitor your health.</item>
+        <item>Take a walk outdoors to boost mental clarity.</item>
+        <item>Floss daily for better dental health.</item>
+        <item>Eat smaller, more frequent meals to maintain metabolism.</item>
+        <item>Practice deep breathing exercises to reduce anxiety.</item>
+        <item>Stay socially connected for emotional well-being.</item>
+        <item>Use sunscreen to protect your skin from UV rays.</item>
+        <item>Don’t smoke, and avoid secondhand smoke.</item>
+        <item>Prioritize sleep to improve your immune system.</item>
+        <item>Stay positive to maintain good mental health.</item>
+        <item>Include healthy fats like avocado and nuts in your diet.</item>
+        <item>Cook more at home to control ingredients and portion sizes.</item>
+        <item>Keep learning new things to keep your brain sharp.</item>
+    </string-array>
+
+
+
+</resources>
