@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="leces_title">Leces Gaul</string>
+    <string name="leces_description">Warung Sate Leces Gaul di Jalan Simpang-Parakanmuncang KM 5 berdiri semenjak tahun 2016 dan awalnya dikelola sendiri oleh perintisnya H. Eet Sunarya.</string>
+    <string name="leces_address"> Jalan Raya Simpang Km5, Desa, Mekarbakti, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45362</string>
+    <string name="teko_title">Saung Teko</string>
+    <string name="teko_description">Ayam Szechuan, mie goreng, dan minuman di restoran yang dipenuhi tanaman di tepi kolam koi.</string>
+    <string name="teko_address">Jl. Raya Cimuja, Cimuja, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353</string>
+
+    <string name="cadas_pangeran_title">Cadas Pangeran</string>
+    <string name="cadas_pangeran_description">Cadas Pangeran adalah nama suatu tempat, kira-kira enam kilometer sebelah barat daya kota Sumedang, yang dilalui jalan raya Bandung—Cirebon.</string>
+    <string name="cadas_pangeran_address">Jl. Nasional 5, Cijeruk, Kec. Pamulihan, Kabupaten Sumedang, Jawa Barat 45365</string>
+    <string name="jatigede_title">Waduk Jatigede</string>
+    <string name="jatigede_description">Waduk ini mulai dibangun pada tahun 2008 di masa kepemimpinan Presiden Susilo Bambang Yudhoyono dan baru diresmikan pada tahun 2015 serta beroperasi penuh pada tahun 2017 di masa kepemimpinan Presiden Joko Widodo.</string>
+    <string name="jatigede_address">Cijeungjing, Jatigede, Sumedang Regency, West Java 45377</string>
+    <string name="aspla_title">Asia Plaza Sumedang</string>
+    <string name="aspla_description">Plaza Asia Sumedang menawarkan fasilitas dan gerai yang lengkap untuk berbelanja. Mal menyediakan berbagai pilihan belanja mulai dari supermarket, toko buah, toko roti, hingga toko buku juga ada.</string>
+    <string name="aspla_address">Jl. Mayor Abdurahman No.225, Kotakaler, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45322</string>
+    <string name="jatos_title">Jatinangor Town Square</string>
+    <string name="jatos_description">JATOS atau Jatinangor Town Square termasuk mal utama di Jatinangor, Kabupaten Sumedang. Mal ini dibangun di atas area seluas 30.000 meter persegi dan terdiri dari 4 lantai dengan luas bangunan sekitar 24 meter persegi.</string>
+    <string name="jatos_address">Jl. Raya Jatinangor No. 150, Cikeruh, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363</string>
+    <string name="sumedang_title">Sumedang</string>
+    <string name="sumedang_description">Kabupaten Sumedang (bahasa Sunda: aksara Sunda: ᮞᮥᮙᮨᮓᮀ) adalah sebuah kabupaten di Provinsi Jawa Barat, Indonesia. Ibu kotanya adalah Sumedang Utara, sekitar 45 km timur laut Kota Bandung.</string>
+    <string name="restaurants_category">Restaurants</string>
+    <string name="shops_category">Shops</string>
+    <string name="attractions_category">Other Attractions</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="categories">Categories</string>
+</resources>
